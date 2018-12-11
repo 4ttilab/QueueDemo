@@ -1,2 +1,3 @@
-Szia!
+Szia! kiegészítve
+beszúrt sor
 Ez egy új sor.
