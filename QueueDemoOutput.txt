@@ -1,0 +1,15 @@
+run:
+[B Gizi]
+[B Gizi, C Gyula]
+[A Frodó, C Gyula, B Gizi]
+A Frodó
+[B Gizi, C Gyula]
+[B Gizi, C Gyula, D Csókos Jani]
+B Gizi
+[B Béla, B Gizi, D Csókos Jani, C Gyula]
+B Béla
+[B Gizi, C Gyula, D Csókos Jani]
+[C Gyula, D Csókos Jani]
+[D Csókos Jani]
+[]
+BUILD SUCCESSFUL (total time: 0 seconds)
