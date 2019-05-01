@@ -17,7 +17,7 @@ public class QueueDemo {
         System.out.println(qu);
         qu.offer("D Csókos Jani");  //így is hozzá tudok adni elemet a sorhoz
         System.out.println(qu);
-        System.out.println(qu.peek());
+        System.out.println(qu.peek());   //így is megnézhetem, ki az első a sorban
         qu.add("B Béla"); 
         System.out.println(qu);
         System.out.println(qu.peek());
